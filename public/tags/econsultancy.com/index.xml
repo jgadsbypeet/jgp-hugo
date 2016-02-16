@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Econsultancy.Com on James Gadsby Peet</title>
+    <link>/tags/econsultancy/index.com/</link>
+    <description>Recent content in Econsultancy.Com on James Gadsby Peet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 18 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/econsultancy.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CRUK and agile</title>
+      <link>/cruk-and-agile/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cruk-and-agile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

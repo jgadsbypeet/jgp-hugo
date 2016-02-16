@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on James Gadsby Peet</title>
+    <link>/tags/interview/</link>
+    <description>Recent content in Interview on James Gadsby Peet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 18 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CMO.com Interview</title>
+      <link>/cmo-com-interview/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cmo-com-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRUK’s Digital Strategy</title>
+      <link>/cruks-digital-strategy/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cruks-digital-strategy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

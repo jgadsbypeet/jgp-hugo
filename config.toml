@@ -1,0 +1,5 @@
+baseurl = "/"
+languageCode = "en-gb"
+title = "James Gadsby Peet"
+[params]
+  description = "Thoughts, work and portfolio"

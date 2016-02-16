@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on James Gadsby Peet</title>
+    <link>/tags/web-design/</link>
+    <description>Recent content in Web Design on James Gadsby Peet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 02 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Random quotes &amp; cat pics</title>
+      <link>/random-quotes-cat-pics/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/random-quotes-cat-pics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picasso &amp; Dreamweaver…</title>
+      <link>/what-if-picasso-had-dreamweaver/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/what-if-picasso-had-dreamweaver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cmd&#43;Alt&#43;I</title>
+      <link>/cmdalti/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cmdalti/</guid>
+      <description>&lt;p&gt;As a &amp;#8216;mobile first&amp;#8217; digital product designer (how wan*y does that sound?!?) it&amp;#8217;s much easier said than done to experience the web as a lot of your users will do &amp;#8211; on a mobile device.&lt;/p&gt;
+
+&lt;p&gt;Those of us that sit on our lovely MacBook Pros making websites will always struggle to design with the reduced viewport first&amp;#8230; Having been through the process, there really is such a huge difference in your thought and design process if you are truly designing for our portrait pals rather than just amending a desktop design reduced to fit&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;As such, i am going to spend the next week, with my browser permanently resized to a mobile width.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ll let you know what i learn and if it helps think a little bit differently&lt;/p&gt;
+
+&lt;p&gt;Oh &amp;#8211; and before anyone says it &amp;#8211; i realise that i am not getting the full mobile experience (touch, location, camera etc) &amp;#8211; but it might be better than nothing&amp;#8230; it might be rubbish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cat pics for all</title>
+      <link>/cat-pics-for-all/</link>
+      <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cat-pics-for-all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email comparison</title>
+      <link>/cruk-email-comparison/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/cruk-email-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinylised</title>
+      <link>/vinylised/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/vinylised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>my Txt redirect</title>
+      <link>/my-txt-redirect/</link>
+      <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/my-txt-redirect/</guid>
+      <description>&lt;p&gt;This is a new service that i created for charities who are looking to deploy txt to give asks through Facebook. The tool helps them create a link which when posted on Facebook and clicked on by a user, will directly open the sms app on their phone, with the correct txt number already populated.&lt;/p&gt;
+
+&lt;p&gt;The specific use case is for when charities are investing in Facebook Advertising, as using this method, they are able to target mobile browsers only.&lt;/p&gt;
+
+&lt;p&gt;The site creates a new page with &lt;meta http-equiv=&amp;#8217;refresh&amp;#8217; content=&amp;#8217;0;url=sms:XXXXX&amp;#8217; /&gt; in the header, as well as including the relevant information in the Open Graph header properties so that the right information shows when posting to Facebook.&lt;/p&gt;
+
+&lt;p&gt;Android phones and iOS devices react differently to this type of redirect. It is actually possible to pre-populate the body message on Android, using the body= parameter, however if this type of link is opened within iOS then the txt number is stripped as well.&lt;/p&gt;
+
+&lt;p&gt;The next stage of improvement will probably be to allow the user to upload a custom thumbnail to go along with the post, as well as being able to create separate Android and iOS targetted posts&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mytxtrdr.com&#34;&gt;http://www.mytxtrdr.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Battersea Review</title>
+      <link>/battersea-review/</link>
+      <pubDate>Sun, 19 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/battersea-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bloomsbury Coffee</title>
+      <link>/bloomsbury-coffee-house/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/bloomsbury-coffee-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Myerscough</title>
+      <link>/sarah-myerscough/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/sarah-myerscough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turner Wise</title>
+      <link>/turner-wise/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/turner-wise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
